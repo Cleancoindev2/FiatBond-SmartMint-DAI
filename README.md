@@ -11,7 +11,7 @@ Current stage: **alpha**.
 ## 🏹 Deployed client dApps on Netlify as example concept 
 ## of this contract use case in other projects 🏹:
 
-## 🏠 Current Betatesting Smart Contract addresses 
+## 🏠 Current Alphatesting Smart Contract addresses 
 ## across Ethereum networks in other use cases 🏠
 - Mainnet: [0x](https://etherscan.io/address/0x)
 - Rinkeby: [0x](https://rinkeby.etherscan.io/address/0x)
